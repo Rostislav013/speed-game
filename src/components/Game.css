@@ -1,0 +1,36 @@
+h3 {
+  color: red;
+}
+.name h1 {
+  text-align: center;
+  font-size: 54px;
+  margin-bottom: 50px;
+}
+.score p {
+  text-align: center;
+}
+
+
+.ballsContainer {
+  margin-top: 70px;
+  text-align: center;
+}
+
+.balls {
+  display: inline-block;
+  background-color: #C8C8C8;
+
+  height: 120px;
+  width: 120px;
+  margin: 10px;
+  border-radius: 100px;
+}
+.btns {
+  margin-top: 10vw;
+  text-align: center;
+}
+.btns button {
+  margin: 20px;
+  width: 120px;
+  height: 35px;
+}
